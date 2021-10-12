@@ -1,0 +1,17 @@
+{
+  "short_name": "Image editor",
+  "name": "Image editor",
+  "description": "Image editor",
+  "icons": [
+    {
+      "src": "/img/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#fffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6"
+}

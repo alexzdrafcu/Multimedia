@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Bolero",
+        "artist": "Ravel",
+        "album": "We Are to Answer",
+        "url": "media/Bolero.mp3",
+        "cover_art_url": "media/bolero.jpg"
+    },
+    {
+        "name": "Moonlight Sonata",
+        "artist": "Beethoven",
+        "album": "Ask The Dust",
+        "url": "media/Beethoven-MoonlightSonata.mp3",
+        "cover_art_url": "media/beethoven.jpg"
+    },
+    {
+        "name": "Canon in D",
+        "artist": "Pachelbel",
+        "album": "We Are to Answer",
+        "url": "media/CanoninD.mp3",
+        "cover_art_url": ""
+    }
+]
+
+    
